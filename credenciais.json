@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "codexa-445917",
+  "private_key_id": "e91362822eda36f7759708c9fa8a4daa22d55204",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2e22BOoMolylV\nYp7YZqjfKkhQEwFTfLSzpsipxkXHX+ZMx4QT5T+LQfvIgfMG0XwyUJkiII/YGJti\nVKZSwVmESH+m7s6iAc7a3uzoZsosJOEZ+om2LL2/bLhgaCUVHTPc2qczdfPD1q+w\nMyQmyxJtuBbVBIpFTCjZDiAb9aPb1t/xAsU3KIARXZ5cKsmCvqEavP6QTL2Ti6S+\no9cqn9q40OsBN6rjNGfzbVLUfY24zK5JOxDqUFxIcADAI1cP0ZGVRW+QjDDB9NLf\n5qSnKU8Be92sHzi6OoUugfazpco0mYf95z/RmpV8YBS+L0NqqS33px7ol3Wm8w0u\nxA9R1nfbAgMBAAECggEAAOwx1nkS5/qPrd4ykYyIeQxiUslSYndSKbc6hTeD64Sk\nrqmyuea9eN205dXYpu7Q7nB64k03s9OBKsMJhRpPTg60EWHKJmH5h2npj7uJUJOu\nTRxlY/7o6mg29ZQcpr5SIHOGR5vUR1WQno3N7ViSN6On/wonn2OlHhWLjnHGt6x4\nCt7Kq07UCg+1BAfIOdRDgPIrFZJZhkOuMJJEvlH0mXEmw6uICvHUDZ4vj1LIZal7\n4jnMRxwiIKO5KlXaLxDDLWpIYYa7Wwtf+QuQcVDl8+JjcCwYCP3JaeJA3g/sKhXK\nORSR23Q39wkh0zL403W4I0icNXBkTuTxeSwbvhoylQKBgQDt4dcPL4083etpUNfO\naaZ+FB8FDQxZqSbMZl7IV3NwObBccWNp6FuRsKn1Zx52P1H+xs3fLrCJs7kSs3ZN\nzIjHYgvaUjykU8Yb3/uvEs8YCZdyrFrHHZthip9eIJCGwnzTSU9u9Td0K3fn9Ui7\n4YyAmsYtfCh/4OAv27Cj0Pkz3QKBgQDEYWnDTq+T9zcZtcdxRaLVcLbIw95A5VMA\nNs4c/nMrVafR2+unMx/OPtNzqNDuoCUdVG2T6/qxevLKPqjFq5/LHIURK1m9DhgT\ncKF2lSM1iTR2Q9cL111u1cDLbm/6GZOcW+gMAAhqIOBySCWV76omRPUzm1FM9vAz\nYMDuEnybFwKBgCQcvcYrZNiRo/Q39pr6RPEs4sykf3R5Dk/HVqo5RGgMCe7us7XX\nNVd3p0V+4wv2bt8rlQNFlj1BUF47akFDRJxoEP6Sr2wO36tJpG6ef1vZ0Ojyq1FA\n+F6laa4jaW1bxxFYNrvUdBeppalL/j+vbOH1HRK4n3lSTRZW1oj352ztAoGAYN+Q\n9bh2Im68LqGeXgE0/0dX05fTpn25wQxIBsN6erEJVRvAlr1AflQ9qPto/Z3gUSSZ\n3XN2OmDlLeFVDhXIgMBz3/FblkhClixkagPN15X0XDbA+WVnAMrPDUtQT7aYO3SW\n9nx5qijHr3hpmhoc/D3eG3QN2gKioSWkZoyWDUcCgYAU5rpTLalkzaaOyaWu7iEN\nqRpVOemIFfp9cMjkM4UiDVEOsv7SlbE83VVo1GOpzoDDyCNtGFljLu77OAGSfDJd\nrx0RvymtDFH4ta+mdWm6Dzol5WmckdLZyOex2B3geIKUHsGdDvDRE5C2rvxVKyhx\nH2lDR74c4WYL7u9ZQ2AZ/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "codexa@codexa-445917.iam.gserviceaccount.com",
+  "client_id": "102024066844817917476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codexa%40codexa-445917.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
